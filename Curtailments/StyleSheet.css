@@ -1,0 +1,41 @@
+﻿h1 {
+    text-align: center !important;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+}
+
+.CMR {
+    width: 160px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(0, 123, 255);
+    color: white;
+    font-size: large;
+}
+
+
+.TableBtn {
+    width: 135px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(0, 123, 255);
+    color: white;
+   
+}
+
+.DateTimePicker {
+
+    height: 35px;
+    width: 200px;
+   
+    border-radius : 3px;
+
+}
